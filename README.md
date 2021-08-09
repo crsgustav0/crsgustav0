@@ -24,8 +24,8 @@
 - 🌱 Desenvovimento de aplicações Mobile.
 - 💙 Interesse: Java, Node, JavaScript, C#, React e Kotlin.
 
+## Skills
 
-## Skills 
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,7 +36,7 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </p>
 
-## Contact 
+## Contact
 
 <p align="center">
     <a href="https://github.com/crsgustav0">
@@ -48,9 +48,10 @@
     </a>
 </p>
 
-<p align="center"> 
+<p align="center">
 
- ## Total de Visitas no perfil<br>
+## Total de Visitas no perfil<br>
+
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/crsgustav0/count.svg" />
  </p>
