@@ -21,11 +21,11 @@
 ### Abstract
 
 - 👨‍💻 Desenvolvedor Júnior em **Terra Viva**.
-- 🌱 Desenvovimento de aplicações Mobile.
-- 💙 Interesse: Java, Node, JavaScript, C#, React e Kotlin.
+- 🌱 Desenvovimento de aplicações, Web Services Mobile.
+- 💙 Interesse: Java, Node.js, JavaScript, C#, React e HTML.
 
+## Skills
 
-## Skills 
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,10 +33,16 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </p>
 
-## Contact 
+## Contact
 
 <p align="center">
     <a href="https://github.com/crsgustav0">
@@ -48,9 +54,12 @@
     </a>
 </p>
 
-<p align="center"> 
 
- ## Total de Visitas no perfil<br>
+
+<p align="center">
+
+## Total de Visitas no perfil<br>
+
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/crsgustav0/count.svg" />
  </p>
