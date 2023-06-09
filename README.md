@@ -20,9 +20,8 @@
 
 ### Abstract
 
-- 👨‍💻 Desenvolvedor Júnior em **Terra Viva**.
-- 🌱 Desenvovimento de aplicações, Web Services Mobile.
-- 💙 Interesse: Java, Node.js, JavaScript, C#, React e HTML.
+- 👨‍💻 Analista desenvolvedor em **TOTVS**.
+- 🌱 Desenvovimento de sistemas, aplicações, Web Services, rotinas ADVPL e TLPP.
 
 ## Skills
 
