@@ -20,7 +20,7 @@
 
 ### Abstract
 
-- 👨‍💻 Analista desenvolvedor em **TOTVS**.
+- 👨‍💻 Analista desenvolvedor em **RZDA**.
 - 🌱 Desenvovimento de sistemas, aplicações, Web Services, rotinas ADVPL e TLPP.
 
 ## Skills
