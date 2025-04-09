@@ -20,7 +20,7 @@
 
 ### Abstract
 
-- 👨‍💻 Analista desenvolvedor em **RZDA**.
+- 👨‍💻 Analista desenvolvedor Protheus.
 - 🌱 Desenvovimento de sistemas, aplicações, Web Services, rotinas ADVPL e TLPP.
 
 ## Skills
